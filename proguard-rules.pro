@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class com.rns.controller.domain.model.** { *; }
+-keepclassmembers class com.rns.controller.domain.model.** { *; }
